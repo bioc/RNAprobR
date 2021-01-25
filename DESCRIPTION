@@ -1,7 +1,7 @@
 Package: RNAprobR
 Title: An R package for analysis of massive parallel sequencing based RNA
     structure probing data
-Version: 1.23.0
+Version: 1.23.1
 Date: 2017-10-27
 Authors@R: c(person("Lukasz Jan", "Kielpinski", role=c("aut"),
     email="kielpinski@bio.ku.dk"), person("Nikos", "Sidiropoulos",
@@ -34,3 +34,4 @@ License: GPL (>=2)
 LazyData: true
 biocViews: Coverage, Normalization, Sequencing, GenomeAnnotation
 RoxygenNote: 6.0.1
+PackageStatus: Deprecated
